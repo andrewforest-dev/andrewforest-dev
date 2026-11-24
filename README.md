@@ -9,7 +9,7 @@ Web Developer | Junior Software Developer | UX/UI Designer
   <a href="https://andrewforest.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/andrew-forest/">
+  <a href="https://www.linkedin.com/in/andrew--forest/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://nexxoagencia.com">
